@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/beeholde/dog-ate-my-homework-excuse/rank.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
 [![reward](https://make.fun/badge/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c/beeholde/dog-ate-my-homework-excuse/reward.svg)](https://make.fun/bounty/u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c)
 
-One funny line, under 200 characters — the dog's excuse after being caught eating the homework: it ate the homework so the kid would finally have a real excuse.
+One funny line, under 200 characters — the dog's excuse after being caught eating the homework: the kid picked homework over the dog's walk, so the dog picked the homework for dinner.
 
 ## Run it
 
